@@ -1,0 +1,24 @@
+dataset:  marbles_classify.csv
+
+Source: A.B. Yasuv, M. Bruno, D. Attanasio (2011). "An Updeated,
+Multi-Method Database of Ephesos Marbles, Including White, Greco Scritto
+and Bigio Varieies," Archaeometry, Vol. 53, #2, pp.215-240.
+
+Description: Classification of 244 marbles with respect to various
+characteristics.
+Group: 1=White Marbles: Ephesos-1 Group (n=88)
+       2=White Marbles: Ephesos-2 Group (n=38)
+       3=White Marbles, Aya Klikiri Group (n=10)
+       4=White Marbles, Farm Quarry Group (n=14)
+       5=Greco Scritto Marbles: Hasancavuslar Quarry 1 (n=19)
+       6=Bigio Antico Marbles: Belevi and Mt. Panayir Quarries (n=75)
+Other variables:
+id    # numeric
+sample_id   # alphanumeric
+quarry
+d18O        # oxygen isotopic ratio
+d13C        # carbon isotopic ratio
+epr_inten   # EPR spectral intensity
+epr_linwid  # EPR linewidth
+colour      
+mgs         # maximum grain size
